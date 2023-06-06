@@ -8,4 +8,5 @@
 ![image](https://github.com/jippy66/ECOMMERCE-SALES-DASHBOARD-IN-POWER-BI/assets/110474637/8d4747e8-0550-4e54-8925-380f26f9ac26)
 
 # Functionalities You Will Learn
-![image](https://github.com/jippy66/ECOMMERCE-SALES-DASHBOARD-IN-POWER-BI/assets/110474637/2ef04f9f-9dc0-4edb-8c79-811100e61e9f)
+
+![image](https://github.com/jippy66/ECOMMERCE-SALES-DASHBOARD-IN-POWER-BI/assets/110474637/4fbe85ca-e42b-42e1-99d0-f3bfdae5d119)
