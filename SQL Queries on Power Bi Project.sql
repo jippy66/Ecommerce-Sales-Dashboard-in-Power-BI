@@ -54,8 +54,8 @@ call Orders_Weekday_Proc1(10000,"South");
 For the analysis part, we will string out the most important components of our data to answer our business objectives.
 
 ...................
-1.What are total sales and total profits of each year?
-The years were grouped by order date, so we can observe data for the year 2014, 2015, 2016 and 2017.
+1. What are the total sales and total profits of each year?
+The years were grouped by order of date, so we could observe data for the years.
 
 SELECT year(order_date) AS year, 
 SUM(sales_per_order) AS total_sales,
@@ -95,7 +95,7 @@ Now this table will aid us in knowing what quarters were the most profitable.
 This can help to pave the way for investment and marketing strategies.'''
 
 .....................
-3. What region generates the highest sales and profits ?
+3. What region generates the highest sales and profits?
 
 SELECT customer_region, SUM(sales_per_order) AS total_sales, SUM(profit_per_order) AS total_profits
 FROM ecommerce_data
